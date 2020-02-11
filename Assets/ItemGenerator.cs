@@ -21,8 +21,6 @@ using UnityEngine;
 
 		// Use this for initialization
 		void Start () {
-		this.unitychan = GameObject.Find ("unitychan");
-		 float now=unitychan.transform.position.z;
 		//一定の距離ごとにアイテムを生成
 		for (int i = startPos; i < goalPos; i+=15) {
 			//どのアイテムを出すのかをランダムに設定
@@ -57,10 +55,8 @@ using UnityEngine;
 	}
 		// Update is called once per frame
 		void Update () {
-		
-		if(now+40=unitychan.transform.position.z){
 
-		}
+
 		}
 	}
 
