@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ItemDestroy.cs">
     <Files>
-      <File FileName="Assets\ItemDestroy.cs" Line="15" Column="86" />
+      <File FileName="Assets\ItemDestroy.cs" Line="17" Column="4" />
       <File FileName="Assets\UnityChanController.cs" Line="1" Column="1" />
-      <File FileName="Assets\ItemGenerator.cs" Line="60" Column="4" />
+      <File FileName="Assets\ItemGenerator.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
